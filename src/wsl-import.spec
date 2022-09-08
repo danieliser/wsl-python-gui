@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['wsl-import.py'],
+    ['src\\wsl-import.py'],
     pathex=[],
     binaries=[],
     datas=[],
